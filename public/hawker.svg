@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Hawker meal bowl">
+  <rect width="200" height="200" rx="36" fill="#FFF1D6"/>
+  <circle cx="100" cy="96" r="58" fill="#F6D365"/>
+  <path d="M46 104h108l-13 42H59z" fill="#4B2E2A"/>
+  <path d="M64 98c12-20 58-20 72 0" fill="none" stroke="#D9381E" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="82" cy="86" r="8" fill="#2F8F46"/><circle cx="111" cy="78" r="7" fill="#2F8F46"/><circle cx="126" cy="91" r="6" fill="#2F8F46"/>
+  <path d="M57 151h86" stroke="#D9381E" stroke-width="8" stroke-linecap="round"/>
+</svg>
